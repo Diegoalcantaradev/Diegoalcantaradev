@@ -14,6 +14,19 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - **Frameworks:** Tailwind, Bootstrap
 - **Ferramentas:** Git
 
+<!--
+## Projetos em Destaque
+
+### [Projeto 1](https://github.com/seu-usuario/projeto1)
+Descrição breve do projeto 1.
+
+### [Projeto 2](https://github.com/seu-usuario/projeto2)
+Descrição breve do projeto 2.
+-->
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Diegoalcantaradev&show_icons=true&theme=radical)
 
 ## Entre em Contato
 
