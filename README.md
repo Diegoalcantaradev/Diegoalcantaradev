@@ -13,6 +13,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - **Linguagens de Programação:** Javascript, Java
 - **Frameworks:** Tailwind, Bootstrap
 - **Ferramentas:** Git
+- **Biblioteca:** React.
 
 <!--
 ## Projetos em Destaque
