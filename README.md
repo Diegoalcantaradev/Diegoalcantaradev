@@ -1,6 +1,6 @@
 # Olá, eu sou Diego Borges De Alcantara 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente,
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, faça analise e desenvolvimento de sistemas.
 
 ## Sobre Mim
 - 🌱 Atualmente estou aprendendo **Javascript** e **Java**.
@@ -10,20 +10,20 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## Habilidades
 
-- **Linguagens de Programação:** Javascript, Java
-- **Frameworks:** Tailwind, Bootstrap
-- **Ferramentas:** Git
+- **Linguagens de Programação:** Javascript, Java.
+- **Frameworks:** Tailwind, Bootstrap.
+- **Ferramentas:** Git, Github.
 - **Biblioteca:** React.
 
-<!--
+
 ## Projetos em Destaque
 
-### [Projeto 1](https://github.com/seu-usuario/projeto1)
-Descrição breve do projeto 1.
+### [Digital Store](https://github.com/gt-05/grupo-01)
+Descrição do projeto Front-end. Projeto de uma loja virtual, usando metodologia agil scrum e kanban. e as technologias html, css, javascript, e as bibliotecas react 
+e tailwind. desenvolvido em equipe ao longe de 1 mês (um mes). 
 
-### [Projeto 2](https://github.com/seu-usuario/projeto2)
-Descrição breve do projeto 2.
--->
+
+
 
 ## Estatísticas do GitHub
 
