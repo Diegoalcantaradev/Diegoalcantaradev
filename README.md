@@ -22,7 +22,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 Descrição do projeto Front-end. Projeto de uma loja virtual, usando metodologia agil scrum e kanban. e as technologias html, css, javascript, e as bibliotecas react 
 e tailwind. desenvolvido em equipe ao longe de 1 mês (um mes). 
 
-### [Consumo de API fake](https://github.com/gt-05/grupo-01](https://github.com/Diegoalcantaradev/ConsumoDeApi)
+### [Consumo de API fake](https://github.com/Diegoalcantaradev/ConsumoDeApi)
 
 
 
