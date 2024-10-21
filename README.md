@@ -22,7 +22,11 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 Descrição do projeto Front-end. Projeto de uma loja virtual, usando metodologia agil scrum e kanban. e as technologias html, css, javascript, e as bibliotecas react 
 e tailwind. desenvolvido em equipe ao longe de 1 mês (um mes). 
 
-### [Consumo de API fake](https://github.com/Diegoalcantaradev/ConsumoDeApi)
+### [Consumo de API fake com JavaScript](https://github.com/Diegoalcantaradev/ConsumoDeApi)
+Consumo de API Fake com JavaScript - Demonstração prática da integração de uma API em um projeto JavaScript. O projeto consome dados de uma API fake para exibir 
+uma lista de produtos em uma página HTML. Ideal para iniciantes em desenvolvimento web que desejam aprender os conceitos básicos de consumo de APIs.
+
+
 
 
 
