@@ -1,6 +1,6 @@
 # Olá, eu sou Diego Borges De Alcantara 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, faça analise e desenvolvimento de sistemas.
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, faço técnico em desenvolvimento de sistemas.
 
 ## Sobre Mim
 - 🌱 Atualmente estou aprendendo **Javascript** e **Java**.
