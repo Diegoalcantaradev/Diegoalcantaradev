@@ -24,9 +24,9 @@ dividimos o projeto em sprints de três semanas, garantindo entregas incrementas
 Utilizamos o Kanban para visualizar o fluxo de trabalho e otimizar a gestão das tarefas.
 A interface do usuário foi construída com React e estilizada com Tailwind CSS, resultando em uma experiência visual moderna e responsiva. 
 As tecnologias HTML, CSS e JavaScript foram utilizadas para criar uma aplicação dinâmica e interativa.
-### [Consumo de API fake com JavaScript](https://github.com/Diegoalcantaradev/ConsumoDeApi)
-Consumo de API Fake com JavaScript - Demonstração prática da integração de uma API em um projeto JavaScript. O projeto consome dados de uma API fake para exibir 
-uma lista de produtos em uma página HTML. Ideal para iniciantes em desenvolvimento web que desejam aprender os conceitos básicos de consumo de APIs.
+### [Consumo de API com JavaScript](https://github.com/Diegoalcantaradev/ConsumoDeApi)
+Consumo de API com JavaScript - Demonstração prática da integração de uma API em um projeto JavaScript. O projeto consome dados de uma API para exibir 
+cep reais em uma página HTML. Ideal para iniciantes em desenvolvimento web que desejam aprender os conceitos básicos de consumo de APIs.
 
 
 
