@@ -41,6 +41,7 @@ ceps reais em uma página HTML. Ideal para iniciantes em desenvolvimento web que
 ## Entre em Contato
 
 - [LinkedIn](https://www.linkedin.com/in/diego-borges-de-alcantara/)
+- [Instagram](https://www.instagram.com/diegoalcantaradev/)
 
 <!---
 Diegoalcantaradev/Diegoalcantaradev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
